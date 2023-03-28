@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/41/08/e4/4108e4388def79662d68786e8a9c8eb6.gif)
 <h1 align="center">Hi 👋, I'm Nikita.</h1>
 <h3 align="center">A passionate graphics designer from Nepal</h3>
 
